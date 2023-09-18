@@ -1,0 +1,8 @@
+"""ABOUT:
+    - Game where you level and build skills on a white blood cell to fight new infections.
+    - Resizing pixel art (Image Size dialog):
+        - Check Resample box ON
+        - Resize by Percentage in multiples  of 100%
+        - Change interpolation method from Automatic to Nearest Neighbor
+    - Area array format: (start x-coord, start y-coord, end x-coord, end y-coord)
+    """
